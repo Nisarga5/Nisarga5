@@ -3,9 +3,9 @@
 --->
 # HELLO, FOLKS 👋
 ![](https://komarev.com/ghpvc/?username=Nisarga5&color=brightgreen&styl=plastic)
------------------------------------------------------------------------------------------------------------------------------------------------------------)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @Nisaarga5
-- 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
+- 👀 I’m interested in linux, C-programming, Python
 - 🌱 I’m currently learning BE in computer science 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me snisarga776@gmail.com
